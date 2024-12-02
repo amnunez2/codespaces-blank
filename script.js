@@ -48,7 +48,7 @@ homee.addEventListener('mouseenter', function(){
 
 
 right.addEventListener('click', function(){
-    console.log ("left was clicked");
+    console.log ("right was clicked");
     leftRight.style.display = "none";
     left.style.display = "none";
     right.style.display = "none";
