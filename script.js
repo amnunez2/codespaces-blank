@@ -27,7 +27,7 @@ left.addEventListener('click', function(){
     right.style.display = "none";
     train.style.display = "block"; 
     homee.style.display = "block";
-    text.innerHTML = "The towns people tell you about the forest and the dangers. You can either go in forest and search on your own by double clicking or you can hoover over the house to leave on a train back to your home.";
+    text.innerHTML = "The forest people tell you about the dangers. You can either go in forest and search on your own by double clicking or you can find and hoover over the house to leave on a train back to your home.";
 });
 
 train.addEventListener('dblclick', function(){
@@ -54,7 +54,7 @@ right.addEventListener('click', function(){
     right.style.display = "none";
     group.style.display = "block"; 
     computer.style.display = "block";
-    text.innerHTML = "The towns people tell you about the forest and the dangers. You and  your group can enter the forest and start your adventure by double clicking or you can make a plan with the town people before searching by hoovering over the computer";
+    text.innerHTML = "The towns people tell you about the forest and the dangers. You and  your group can enter the forest and start your adventure by double clicking or you can make a plan with the town people before searching by finding and hoovering over the computer";
 });
 
 group.addEventListener('dblclick', function(){

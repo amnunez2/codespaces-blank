@@ -1,11 +1,33 @@
 .main{
-    width: 300px;
+    width: 330px;
     height: 3000px;
     margin: 0 auto;
-    background: darkslategray;
+    background:#222e25;
+    padding:5px;
 }
+
 p{
     color: white;
+    padding:15px;
 }
-img{width: 300px};
-//*{border: 2px solid red;}
+
+img{
+    width: 300px;
+    padding:15px;
+}
+
+.left, .right {
+    margin: 0 auto;
+
+}
+body{
+ 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK198_yOpoWSZz1CbScnqQXbzmAbt4FetizQ4fhxPUCZPgabc:https://img.freepik.com/premium-photo/scary-background-copy-space_1169880-220565.jpg&s");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+
+/* //*{border: 2px solid red;} */
