@@ -18,6 +18,8 @@ img{
 
 .left, .right {
     margin: 0 auto;
+    background-color: #5c0a04;
+    color: white; 
 
 }
 body{
